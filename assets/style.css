@@ -1,0 +1,19 @@
+.headline {
+    text-align: center;
+}
+.headline h1 {
+    font-size: 32px;
+    font-family: 'Oswald', sans-serif;
+}
+.headline p {
+    font-size: 16px;
+}
+.weblist {
+    text-align: center;
+    padding: 60px 0;
+}
+.weblist_type h2 {
+    font-size: 24px;
+    font-family: 'Bad Script', cursive;
+    font-weight: 700;
+}
